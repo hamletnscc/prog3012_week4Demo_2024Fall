@@ -17,7 +17,7 @@ A simple web application to manage IoT devices. This project demonstrates the us
 ## Project Structure
 
 ```plaintext
-iot-inventory/
+/
 ├── app.js                 # Main server file
 ├── public/                # Static files (HTML, CSS, JavaScript)
 │   ├── index.html         # List all devices
@@ -51,7 +51,7 @@ Ensure you have the following installed on your system:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd iot-inventory
+   cd .
    ```
 3. Install dependencies:
    ```bash
